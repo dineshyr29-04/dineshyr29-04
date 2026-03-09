@@ -57,21 +57,17 @@
 ## GitHub Analytics
 
 <p align="center">
-	<img src="https://img.shields.io/github/followers/dineshyr29-04?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-	<img src="https://img.shields.io/github/stars/dineshyr29-04?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
-	<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdineshyr29-04" alt="Public repos" />
+	<img src="https://img.shields.io/github/followers/dineshyr29-04?style=for-the-badge&logo=github&label=Followers&labelColor=0b1220&color=1f2937&logoColor=white" alt="GitHub followers" />
+	<img src="https://img.shields.io/github/stars/dineshyr29-04?style=for-the-badge&logo=github&label=Stars&labelColor=111827&color=374151&logoColor=white" alt="GitHub stars" />
+	<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&labelColor=0f172a&color=334155&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdineshyr29-04" alt="Public repos" />
 </p>
 
 <p align="center">
-	<img src="https://metrics.lecoq.io/dineshyr29-04?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&base.metadata=0&config.timezone=Asia%2FKolkata" alt="GitHub metrics" />
+	<img src="https://streak-stats.demolab.com?user=dineshyr29-04&theme=highcontrast&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=dineshyr29-04&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-	<img src="https://ghchart.rshah.org/58a6ff/dineshyr29-04" alt="GitHub contribution chart" />
+	<img src="https://ghchart.rshah.org/1f6feb/dineshyr29-04" alt="GitHub contribution chart" />
 </p>
 
 ## Visitor Count

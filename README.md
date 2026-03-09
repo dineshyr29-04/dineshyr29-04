@@ -14,7 +14,7 @@
 
 - Full-stack developer focused on building practical products with modern web stacks.
 - AI/ML enthusiast working on real-world automation and intelligent app workflows.
-- Founder of `ThinkNode`, an agency delivering full-stack apps, AI agents, and digital creatives.
+- Co-Founder of `ThinkNode`, an agency delivering full-stack apps, AI agents, and digital creatives.
 - Open to freelance, startup, and collaboration opportunities.
 
 ## What I Am Building

@@ -1,76 +1,18 @@
-# GitHub Readme Stats — Quick Setup for Your Repo
+# 💫 About Me:
+student <br>open source projects <br>next.js mern stack react<br>open to work some projects <br>meanful projects
 
-This README shows how to embed dynamic GitHub stats (cards, top languages, Wakatime, gists, and pins) into your repository README using the github-readme-stats service.
 
-## Quick Start
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/290_4d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dineshyr2904@gmail.com) 
 
-Add an image to your README that points to the stats API. Replace `USERNAME` with your GitHub username.
-
-Example - simple stats card:
-
-```md
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
-```
-
-Example - stats card with theme and icons:
-
-```md
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark)](https://github.com/USERNAME)
-```
-
-Top languages card:
-
-```md
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-```
-
-Wakatime summary (if configured):
-
-```md
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME)
-```
-
-Pin a repo (example):
-
-```md
-![Pinned repo](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPO_NAME)
-```
-
-## Query Parameters
-
-- `username` (required): GitHub username.
-- `repo` (for pin): repository name.
-- `show_icons`: `true`/`false` to show icons.
-- `theme`: use built-in theme names (e.g., `dark`, `radical`, `tokyonight`) or custom theme object name.
-- `hide`: comma-separated items to hide (e.g., `stars,prs`).
-- `count_private`: `true` to include private contributions (if token/configured).
-- `include_all_commits`: `true` to count all commits.
-- `locale`: set language locale (e.g., `en`, `fr`).
-- `layout`: for `top-langs`, uses `compact` or default.
-
-You can combine parameters, for example: `?username=USERNAME&show_icons=true&theme=dark&count_private=true`.
-
-## Available Themes
-
-This project provides multiple built-in themes. See the `themes` directory in this repository for the full list and examples.
-
-## Using in a Profile README
-
-Place one or more of the image links above into your profile repository README (the repository with the same name as your GitHub username). The images will render dynamically on GitHub.
-
-## Troubleshooting
-
-- If images do not render, ensure the URL is correct and the service (vercel) is accessible from your environment.
-- For private stats (private repos/WakaTime), confirm tokens/authorization are set up according to the project's docs.
-
-## Contributing
-
-This repository contains the implementation and themes. To contribute themes or fixes, fork the repo, make changes, and open a pull request.
-
-## License
-
-See the repository LICENSE for details.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dieshyr29-04&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dieshyr29-04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dieshyr29-04&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=dieshyr29-04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-If you'd like, I can customize this README for your specific username/repo (replace `USERNAME` and add any cards you prefer). Tell me your GitHub username and which cards you'd like included.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

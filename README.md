@@ -16,6 +16,7 @@
 - AI/ML enthusiast working on real-world automation and intelligent app workflows.
 - Co-Founder of `ThinkNode`, an agency delivering full-stack apps, AI agents, and digital creatives.
 - Open to freelance, startup, and collaboration opportunities.
+- Good at prompt engineering.
 
 ## What I Am Building
 
@@ -23,16 +24,37 @@
 - AI-powered tools and workflow automations
 - Production-ready frontend systems with React and Tailwind CSS
 
+## Signature Zone
+
+```text
+ThinkNode = Product Thinking + Clean Engineering + AI Execution
+```
+
+I like shipping products that are not only functional, but also fast, maintainable, and useful in real workflows.
+
+## 2026 Focus
+
+- Building AI-first SaaS features for startups and agencies
+- Creating reusable full-stack templates for faster product launches
+- Improving performance and UX quality in production React apps
+- Collaborating on freelance and long-term product partnerships
+
+## Work Style
+
+- `Build fast, then harden`: rapid MVP first, then production optimization
+- `Design with intent`: modern UI with business-focused user flows
+- `Automate where possible`: AI agents and scripts to reduce manual work
+
 ## Tech Stack
 
-### Languages
+### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### Frameworks and Libraries
+### Frontend and Backend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -41,11 +63,10 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases, Cloud, and Tools
+### Data, Cloud, and Builder Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -69,6 +90,12 @@
 <p align="center">
 	<img src="https://ghchart.rshah.org/1f6feb/dineshyr29-04" alt="GitHub contribution chart" />
 </p>
+
+## Why This Profile Is Fully Free
+
+- Uses only free services: GitHub API, Shields.io, Streak Stats, GHChart, Komarev
+- No paid subscriptions needed for this README setup
+- No Vercel dependency in the stats section
 
 ## Visitor Count
 

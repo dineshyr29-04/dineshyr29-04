@@ -96,11 +96,31 @@ ThinkNode = Product Thinking + Clean Engineering + AI Execution
 
 ## `github_stats`
 
+## `github_stats`
+
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dineshyr29-04&theme=darkhub&no-frame=true&margin-w=4&row=1" alt="Trophies" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=dineshyr29-04&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshyr29-04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=dineshyr29-04&theme=highcontrast&hide_border=true&background=00000000" alt="GitHub Streak" />
 
 <br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshyr29-04&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+
+<br/>
+
+<img src="https://ghchart.rshah.org/1f6feb/dineshyr29-04" alt="Contribution Chart" />
+
+</div>
 
 <img src="https://ghchart.rshah.org/1f6feb/dineshyr29-04" alt="GitHub Contribution Chart" />
 

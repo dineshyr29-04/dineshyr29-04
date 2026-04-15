@@ -122,7 +122,6 @@ ThinkNode = Product Thinking + Clean Engineering + AI Execution
 
 </div>
 
-<img src="https://ghchart.rshah.org/1f6feb/dineshyr29-04" alt="GitHub Contribution Chart" />
 
 <br/>
 

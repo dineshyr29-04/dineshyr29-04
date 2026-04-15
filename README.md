@@ -1,108 +1,129 @@
-<h1 align="center">Hi, I'm Dinesh</h1>
+<div align="center">
 
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Builder;Founder+at+ThinkNode;Open+to+high-impact+projects" alt="Typing intro" />
-</p>
+```
+██████╗ ██╗███╗   ██╗███████╗███████╗██╗  ██╗
+██╔══██╗██║████╗  ██║██╔════╝██╔════╝██║  ██║
+██║  ██║██║██╔██╗ ██║█████╗  ███████╗███████║
+██║  ██║██║██║╚██╗██║██╔══╝  ╚════██║██╔══██║
+██████╔╝██║██║ ╚████║███████╗███████║██║  ██║
+╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<p align="center">
-	<a href="mailto:dineshyr2904@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat-square&logo=gmail" alt="Email" /></a>
-	<a href="https://linkedin.com/in/dinesh-a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-	<a href="https://instagram.com/290_4d"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Builder;Co-Founder+%40+ThinkNode;Building+products+that+ship." alt="Typing intro" />
 
-## About Me
+<br/>
 
-- Full-stack developer focused on building practical products with modern web stacks.
-- AI/ML enthusiast working on real-world automation and intelligent app workflows.
-- Co-Founder of `ThinkNode`, an agency delivering full-stack apps, AI agents, and digital creatives.
-- Open to freelance, startup, and collaboration opportunities.
-- Good at prompt engineering.
+[![Email](https://img.shields.io/badge/dineshyr2904%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dineshyr2904@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-a)
+[![Instagram](https://img.shields.io/badge/@290__4d-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/290_4d)
 
-## What I Am Building
+</div>
 
-- Scalable MERN and Next.js applications
-- AI-powered tools and workflow automations
-- Production-ready frontend systems with React and Tailwind CSS
+---
 
-## Signature Zone
+## `whoami`
 
-```text
+```yaml
+name        : Dinesh
+role        : Full-Stack Developer · AI/ML Builder
+company     : ThinkNode (Co-Founder)
+location    : India
+status      : Open to freelance, startups, and high-impact collabs
+superpower  : Prompt engineering + shipping clean, fast products
+```
+
+I build real things — not demos. From MVPs to production-grade systems, I focus on products that are **functional**, **fast**, and **maintainable**. At [ThinkNode](https://github.com), we deliver full-stack apps, AI agents, and digital creatives for clients who care about quality.
+
+---
+
+## `current_build`
+
+- **AI-first SaaS features** for startups and agencies
+- **Reusable full-stack templates** for faster product launches
+- **Workflow automations** using AI agents and custom scripts
+- **Production React apps** with sharp UX and performance optimization
+
+---
+
+## `stack`
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+### Data & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+### Tools & Extras
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+---
+
+## `philosophy`
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  Build fast, then harden  →  MVP first. Polish second.  ║
+║  Design with intent       →  UI that serves the user.   ║
+║  Automate where possible  →  AI agents > manual work.   ║
+╚══════════════════════════════════════════════════════════╝
+
 ThinkNode = Product Thinking + Clean Engineering + AI Execution
 ```
 
-I like shipping products that are not only functional, but also fast, maintainable, and useful in real workflows.
+---
 
-## 2026 Focus
+## `github_stats`
 
-- Building AI-first SaaS features for startups and agencies
-- Creating reusable full-stack templates for faster product launches
-- Improving performance and UX quality in production React apps
-- Collaborating on freelance and long-term product partnerships
+<div align="center">
 
-## Work Style
+<img src="https://streak-stats.demolab.com?user=dineshyr29-04&theme=highcontrast&hide_border=true&background=00000000" alt="GitHub Streak" />
 
-- `Build fast, then harden`: rapid MVP first, then production optimization
-- `Design with intent`: modern UI with business-focused user flows
-- `Automate where possible`: AI agents and scripts to reduce manual work
+<br/>
 
-## Tech Stack
+<img src="https://ghchart.rshah.org/1f6feb/dineshyr29-04" alt="GitHub Contribution Chart" />
 
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<br/>
 
-### Frontend and Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![Followers](https://img.shields.io/github/followers/dineshyr29-04?style=flat-square&logo=github&label=Followers&labelColor=0b1220&color=1f2937&logoColor=white)](https://github.com/dineshyr29-04)
+[![Stars](https://img.shields.io/github/stars/dineshyr29-04?style=flat-square&logo=github&label=Stars&labelColor=111827&color=374151&logoColor=white)](https://github.com/dineshyr29-04)
+[![Repos](https://img.shields.io/badge/dynamic/json?style=flat-square&logo=github&label=Public%20Repos&labelColor=0f172a&color=334155&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdineshyr29-04)](https://github.com/dineshyr29-04?tab=repositories)
 
-### Data, Cloud, and Builder Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+</div>
 
-## GitHub Analytics
+---
 
-<p align="center">
-	<img src="https://img.shields.io/github/followers/dineshyr29-04?style=for-the-badge&logo=github&label=Followers&labelColor=0b1220&color=1f2937&logoColor=white" alt="GitHub followers" />
-	<img src="https://img.shields.io/github/stars/dineshyr29-04?style=for-the-badge&logo=github&label=Stars&labelColor=111827&color=374151&logoColor=white" alt="GitHub stars" />
-	<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&labelColor=0f172a&color=334155&logoColor=white&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdineshyr29-04" alt="Public repos" />
-</p>
+## `let's_build`
 
-<p align="center">
-	<img src="https://streak-stats.demolab.com?user=dineshyr29-04&theme=highcontrast&hide_border=true" alt="GitHub streak" />
-</p>
+If you're building something meaningful and need a developer who can deliver both **product quality and speed** — I'm available.
 
-<p align="center">
-	<img src="https://ghchart.rshah.org/1f6feb/dineshyr29-04" alt="GitHub contribution chart" />
-</p>
+> Freelance · Startup · Long-term partnership · Open source collab
 
-## Why This Profile Is Fully Free
+[![Reach out →](https://img.shields.io/badge/Reach%20out-dineshyr2904%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshyr2904@gmail.com)
 
-- Uses only free services: GitHub API, Shields.io, Streak Stats, GHChart, Komarev
-- No paid subscriptions needed for this README setup
-- No Vercel dependency in the stats section
+---
 
-## Visitor Count
-
-<p align="left">
-	<img src="https://komarev.com/ghpvc/?username=dineshyr29-04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-## Let's Work Together
-
-If you are building something meaningful and need a developer who can deliver both product quality and speed, feel free to reach out.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dineshyr29-04&label=profile+views&color=0e75b6&style=flat" alt="Profile views" />
+</div>

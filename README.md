@@ -9,13 +9,14 @@
 ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Builder;Co-Founder+%40+ThinkNode;Building+products+that+ship." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Automation+Expert;Co-Founder+%40+ThinkNode;Building+products+that+ship." alt="Typing intro" />
 
 <br/>
 
 [![Email](https://img.shields.io/badge/dineshyr2904%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dineshyr2904@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinesh-a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-a-122983374/)
 [![Instagram](https://img.shields.io/badge/@290__4d-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/290_4d)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://dineshav.vercel.app/)
 
 </div>
 
@@ -24,24 +25,28 @@
 ## `whoami`
 
 ```yaml
-name        : Dinesh
-role        : Full-Stack Developer · AI/ML Builder
+name        : Dinesh A
+role        : Full-Stack Developer · AI Automation & ML Builder
 company     : ThinkNode (Co-Founder)
-location    : India
+location    : Chennai, India
 status      : Open to freelance, startups, and high-impact collabs
-superpower  : Prompt engineering + shipping clean, fast products
+superpower  : Scaling MVPs + AI-Driven Workflows
 ```
 
-I build real things — not demos. From MVPs to production-grade systems, I focus on products that are **functional**, **fast**, and **maintainable**. At [ThinkNode](https://github.com), we deliver full-stack apps, AI agents, and digital creatives for clients who care about quality.
+I build real things — not demos. From MVPs to production-grade systems, I focus on products that are **functional**, **fast**, and **maintainable**. At [ThinkNode](https://github.com/dineshyr29-04), we deliver full-stack apps, AI agents, and digital creatives for clients who care about quality.
 
 ---
 
-## `current_build`
+## `featured_projects`
 
-- **AI-first SaaS features** for startups and agencies
-- **Reusable full-stack templates** for faster product launches
-- **Workflow automations** using AI agents and custom scripts
-- **Production React apps** with sharp UX and performance optimization
+### 🚀 [Openloop](https://github.com/dineshyr29-04/Openloop)
+**Yenbuild 1.0** - A powerful workflow automation tool built with **TypeScript**.
+
+### 🤖 [Jarvis](https://github.com/dineshyr29-04/Jarvis)
+Advanced AI Assistant leveraging **AI/ML** for personalized task management and automation.
+
+### 🌐 [Makers-Conclave](https://github.com/dineshyr29-04/Makers-Conclave)
+Collaborative platform for creators and developers to build and share projects.
 
 ---
 

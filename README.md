@@ -56,7 +56,7 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/dineshyr29-04/dineshyr29-04/main/assets/project1.png" width="100%" style="border-radius: 8px;" alt="Openloop Preview" />
+        <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Openloop" width="100%" style="border-radius: 8px;" alt="Openloop Preview" />
       </div>
       <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop" target="_blank">Openloop</a></h3>
       <p><b>TypeScript · React · WebGL · Three.js</b></p>
@@ -64,7 +64,7 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/dineshyr29-04/dineshyr29-04/main/assets/project2.png" width="100%" style="border-radius: 8px;" alt="Thinknode Preview" />
+        <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Thinknode-customer" width="100%" style="border-radius: 8px;" alt="Thinknode Preview" />
       </div>
       <h3>💼 <a href="https://github.com/dineshyr29-04/Thinknode-customer" target="_blank">Thinknode Ecosystem</a></h3>
       <p><b>React · Node.js · Express · Lucide</b></p>
@@ -74,7 +74,7 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/dineshyr29-04/dineshyr29-04/main/assets/project3.png" width="100%" style="border-radius: 8px;" alt="Makers-Conclave Preview" />
+        <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Makers-Conclave" width="100%" style="border-radius: 8px;" alt="Makers-Conclave Preview" />
       </div>
       <h3>🤖 <a href="https://github.com/dineshyr29-04/Makers-Conclave" target="_blank">Makers-Conclave</a></h3>
       <p><b>Python · OpenCV · YOLO v8</b></p>
@@ -82,7 +82,7 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/dineshyr29-04/dineshyr29-04/main/assets/project4.png" width="100%" style="border-radius: 8px;" alt="Portfolio Preview" />
+        <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Portfolio" width="100%" style="border-radius: 8px;" alt="Portfolio Preview" />
       </div>
       <h3>✨ <a href="https://github.com/dineshyr29-04/Portfolio" target="_blank">Personal Portfolio</a></h3>
       <p><b>TypeScript · Next.js · Lucide · SEO</b></p>

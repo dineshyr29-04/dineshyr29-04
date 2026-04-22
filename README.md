@@ -13,10 +13,10 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/dineshyr2904%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dineshyr2904@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-a-122983374/)
-[![Instagram](https://img.shields.io/badge/@290__4d-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/290_4d)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white)](https://dineshav.vercel.app/)
+<a href="mailto:dineshyr2904@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dineshyr2904%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/dinesh-a-122983374/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/290_4d" target="_blank"><img src="https://img.shields.io/badge/@290__4d-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://dineshav.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
 
 </div>
 
@@ -55,24 +55,24 @@ I build real things — not demos. From MVPs to production-grade systems, I focu
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop">Openloop</a></h3>
+      <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop" target="_blank">Openloop</a></h3>
       <p><b>TypeScript · CSS</b></p>
       <p>A web-based development tool (Yenbuild 1.0) focused on streamlining project workflows and assembly architectures.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://github.com/dineshyr29-04/Thinknode-customer">Thinknode Ecosystem</a></h3>
+      <h3>💼 <a href="https://github.com/dineshyr29-04/Thinknode-customer" target="_blank">Thinknode Ecosystem</a></h3>
       <p><b>React · Node.js · Express</b></p>
       <p>A comprehensive business management suite. Includes Customer Portal, Admin Dashboard, and a secure Backend API infrastructure.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/dineshyr29-04/Makers-Conclave">Makers-Conclave</a></h3>
+      <h3>🤖 <a href="https://github.com/dineshyr29-04/Makers-Conclave" target="_blank">Makers-Conclave</a></h3>
       <p><b>Python</b></p>
       <p>Intelligent traffic signal logic refinement system designed for smart city infrastructure simulation and optimization.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ <a href="https://github.com/dineshyr29-04/Portfolio">Personal Portfolio</a></h3>
+      <h3>✨ <a href="https://github.com/dineshyr29-04/Portfolio" target="_blank">Personal Portfolio</a></h3>
       <p><b>TypeScript · Next.js · CSS</b></p>
       <p>A clean, responsive grid-based portfolio showcasing engineering projects, digital creative work, and technical expertise.</p>
     </td>

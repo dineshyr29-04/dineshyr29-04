@@ -9,14 +9,14 @@
 ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+Automation+Expert;Co-Founder+%40+ThinkNode;Building+products+that+ship." alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;AI+Automation+Architect;Co-Founder+@+ThinkNode;Building+Scalable+Products." alt="Typing intro" />
 
 <br/>
 
-<a href="mailto:dineshyr2904@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dineshyr2904%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/dinesh-a-122983374/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/290_4d" target="_blank"><img src="https://img.shields.io/badge/@290__4d-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://dineshav.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white" alt="Website" /></a>
+<a href="mailto:dineshyr2904@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Connect-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/dinesh-a-122983374/" target="_blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/290_4d" target="_blank"><img src="https://img.shields.io/badge/Connect-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://dineshav.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
 
 </div>
 
@@ -33,11 +33,11 @@ status      : Open to freelance, startups, and high-impact collabs
 superpower  : Scaling MVPs + AI-Driven Workflows
 ```
 
-I build real things — not demos. From MVPs to production-grade systems, I focus on products that are **functional**, **fast**, and **maintainable**. At [ThinkNode](https://github.com/dineshyr29-04), we deliver full-stack apps, AI agents, and digital creatives for clients who care about quality.
+I am a committed Full-Stack Engineer and AI Automation Architect focused on transforming complex ideas into high-performance digital products. As a Co-Founder at [ThinkNode](https://github.com/dineshyr29-04), I specialize in building scalable MVPs, production-grade AI agents, and seamless user experiences. I bridge the gap between prompt engineering and clean system architecture to deliver software that is functional, fast, and future-proof.
 
 ---
 
-## `github_stats`
+## `tech_capability`
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dineshyr29-04&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=8b949e" alt="GitHub Stats" />
@@ -56,25 +56,25 @@ I build real things — not demos. From MVPs to production-grade systems, I focu
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop" target="_blank">Openloop</a></h3>
-      <p><b>TypeScript · CSS · React · Three.js · WebGl ·</b></p>
-      <p>A web-based development tool (Yenbuild 1.0) focused on streamlining project workflows and assembly architectures.</p>
+      <p><b>TypeScript · React · WebGL · Three.js</b></p>
+      <p>Next-gen development orchestrator (Yenbuild 1.0) streamlining complex project workflows through high-performance assembly architectures.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💼 <a href="https://github.com/dineshyr29-04/Thinknode-customer" target="_blank">Thinknode Ecosystem</a></h3>
-      <p><b>React · Node.js · Express · Lucide React ·</b></p>
-      <p>A comprehensive business management suite. Includes Customer Portal, Admin Dashboard, and a secure Backend API infrastructure.</p>
+      <p><b>React · Node.js · Express · Lucide</b></p>
+      <p>An enterprise-grade business management suite featuring a secure customer gateway, intuitive admin command center, and robust API infrastructure.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/dineshyr29-04/Makers-Conclave" target="_blank">Makers-Conclave</a></h3>
-      <p><b>Python · Open CV · Yolo v8 </b></p>
-      <p>Intelligent traffic signal logic refinement system designed for smart city infrastructure simulation and optimization.</p>
+      <p><b>Python · OpenCV · YOLO v8</b></p>
+      <p>Advanced computer vision system for traffic signal logic optimization, leveraging real-time object detection and smart city simulations.</p>
     </td>
     <td width="50%" valign="top">
       <h3>✨ <a href="https://github.com/dineshyr29-04/Portfolio" target="_blank">Personal Portfolio</a></h3>
-      <p><b>TypeScript · Next.js · CSS · Lucide React</b></p>
-      <p>A clean, responsive grid-based portfolio showcasing engineering projects, digital creative work, and technical expertise.</p>
+      <p><b>TypeScript · Next.js · Lucide · SEO</b></p>
+      <p>A minimalist, performance-optimized digital presence showcasing technical architecture, project history, and creative engineering solutions.</p>
     </td>
   </tr>
 </table>

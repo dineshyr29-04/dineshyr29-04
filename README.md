@@ -66,17 +66,11 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Openloop" width="100%" style="border-radius: 8px;" alt="Openloop Preview" />
-      </div>
       <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop" target="_blank">Openloop</a></h3>
       <p><b>TypeScript · React · WebGL · Three.js</b></p>
       <p>Next-gen development orchestrator (Yenbuild 1.0) streamlining complex project workflows through high-performance assembly architectures.</p>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Thinknode-customer" width="100%" style="border-radius: 8px;" alt="Thinknode Preview" />
-      </div>
       <h3>💼 <a href="https://github.com/dineshyr29-04/Thinknode-customer" target="_blank">Thinknode Ecosystem</a></h3>
       <p><b>React · Node.js · Express · Lucide</b></p>
       <p>An enterprise-grade business management suite featuring a secure customer gateway, intuitive admin command center, and robust API infrastructure.</p>
@@ -84,17 +78,11 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Makers-Conclave" width="100%" style="border-radius: 8px;" alt="Makers-Conclave Preview" />
-      </div>
       <h3>🤖 <a href="https://github.com/dineshyr29-04/Makers-Conclave" target="_blank">Makers-Conclave</a></h3>
       <p><b>Python · OpenCV · YOLO v8</b></p>
       <p>Advanced computer vision system for traffic signal logic optimization, leveraging real-time object detection and smart city simulations.</p>
     </td>
     <td width="50%" valign="top">
-      <div align="center">
-        <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Portfolio" width="100%" style="border-radius: 8px;" alt="Portfolio Preview" />
-      </div>
       <h3>✨ <a href="https://github.com/dineshyr29-04/Portfolio" target="_blank">Personal Portfolio</a></h3>
       <p><b>TypeScript · Next.js · Lucide · SEO</b></p>
       <p>A minimalist, performance-optimized digital presence showcasing technical architecture, project history, and creative engineering solutions.</p>

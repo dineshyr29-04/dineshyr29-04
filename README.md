@@ -131,18 +131,13 @@ ThinkNode = Product Thinking + Clean Engineering + AI Execution
 
 ---
 
-
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=dineshyr29-04&theme=darkhub&no-frame=true&margin-w=4&row=1" alt="Trophies" />
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshyr29-04&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshyr29-04&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 
 <br/>
 
-<img src="https://ghchart.rshah.org/1f6feb/dineshyr29-04" alt="Contribution Chart" />
+
 
 </div>
 

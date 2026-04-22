@@ -55,11 +55,17 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://github.com/dineshyr29-04/Openloop/raw/main/public/banner.png" onerror="this.src='https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=400&h=200'" width="100%" style="border-radius: 8px;" />
+      </div>
       <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop" target="_blank">Openloop</a></h3>
       <p><b>TypeScript · React · WebGL · Three.js</b></p>
       <p>Next-gen development orchestrator (Yenbuild 1.0) streamlining complex project workflows through high-performance assembly architectures.</p>
     </td>
     <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://github.com/dineshyr29-04/Thinknode-customer/raw/main/public/banner.png" onerror="this.src='https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&q=80&w=400&h=200'" width="100%" style="border-radius: 8px;" />
+      </div>
       <h3>💼 <a href="https://github.com/dineshyr29-04/Thinknode-customer" target="_blank">Thinknode Ecosystem</a></h3>
       <p><b>React · Node.js · Express · Lucide</b></p>
       <p>An enterprise-grade business management suite featuring a secure customer gateway, intuitive admin command center, and robust API infrastructure.</p>
@@ -67,11 +73,17 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://github.com/dineshyr29-04/Makers-Conclave/raw/main/banner.png" onerror="this.src='https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=400&h=200'" width="100%" style="border-radius: 8px;" />
+      </div>
       <h3>🤖 <a href="https://github.com/dineshyr29-04/Makers-Conclave" target="_blank">Makers-Conclave</a></h3>
       <p><b>Python · OpenCV · YOLO v8</b></p>
       <p>Advanced computer vision system for traffic signal logic optimization, leveraging real-time object detection and smart city simulations.</p>
     </td>
     <td width="50%" valign="top">
+      <div align="center">
+        <img src="https://github.com/dineshyr29-04/Portfolio/raw/main/public/banner.png" onerror="this.src='https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&q=80&w=400&h=200'" width="100%" style="border-radius: 8px;" />
+      </div>
       <h3>✨ <a href="https://github.com/dineshyr29-04/Portfolio" target="_blank">Personal Portfolio</a></h3>
       <p><b>TypeScript · Next.js · Lucide · SEO</b></p>
       <p>A minimalist, performance-optimized digital presence showcasing technical architecture, project history, and creative engineering solutions.</p>

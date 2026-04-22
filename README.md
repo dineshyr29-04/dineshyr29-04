@@ -66,13 +66,12 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      
-      <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop" target="_blank">Openloop</a></h3>
-      <p><b>TypeScript · React · WebGL · Three.js</b></p>
-      <p>Next-gen development orchestrator (Yenbuild 1.0) streamlining complex project workflows through high-performance assembly architectures.</p>
       <div align="center">
         <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Openloop" width="100%" style="border-radius: 8px;" alt="Openloop Preview" />
       </div>
+      <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop" target="_blank">Openloop</a></h3>
+      <p><b>TypeScript · React · WebGL · Three.js</b></p>
+      <p>Next-gen development orchestrator (Yenbuild 1.0) streamlining complex project workflows through high-performance assembly architectures.</p>
     </td>
     <td width="50%" valign="top">
       <div align="center">

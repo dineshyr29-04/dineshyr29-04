@@ -15,6 +15,7 @@
 
 <a href="mailto:dineshyr2904@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Connect-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/dinesh-a-122983374/" target="_blank"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/dineshyr29" target="_blank"><img src="https://img.shields.io/badge/Connect-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://instagram.com/290_4d" target="_blank"><img src="https://img.shields.io/badge/Connect-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://dineshav.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/View-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
 
@@ -48,6 +49,16 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dineshyr29-04&theme=transparent&hide_border=true&stroke=3178C6&ring=3178C6&fire=3178C6&currStreakLabel=3178C6" alt="GitHub Streak" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dineshyr29-04&theme=onedark&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+---
+
 ---
 
 ## `featured_projects`
@@ -59,6 +70,9 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
       <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop" target="_blank">Openloop</a></h3>
       <p><b>TypeScript · React · WebGL · Three.js</b></p>
       <p>Next-gen development orchestrator (Yenbuild 1.0) streamlining complex project workflows through high-performance assembly architectures.</p>
+      <div align="center">
+        <img src="https://opengraph.githubassets.com/1/dineshyr29-04/Openloop" width="100%" style="border-radius: 8px;" alt="Openloop Preview" />
+      </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
@@ -146,6 +160,12 @@ ThinkNode = Product Thinking + Clean Engineering + AI Execution
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshyr29-04&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" />
 
 <br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dineshyr29-04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+</div>
 
 
 

@@ -56,24 +56,24 @@ I build real things — not demos. From MVPs to production-grade systems, I focu
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop" target="_blank">Openloop</a></h3>
-      <p><b>TypeScript · CSS</b></p>
+      <p><b>TypeScript · CSS · React · Three.js · WebGl ·</b></p>
       <p>A web-based development tool (Yenbuild 1.0) focused on streamlining project workflows and assembly architectures.</p>
     </td>
     <td width="50%" valign="top">
       <h3>💼 <a href="https://github.com/dineshyr29-04/Thinknode-customer" target="_blank">Thinknode Ecosystem</a></h3>
-      <p><b>React · Node.js · Express</b></p>
+      <p><b>React · Node.js · Express · Lucide React ·</b></p>
       <p>A comprehensive business management suite. Includes Customer Portal, Admin Dashboard, and a secure Backend API infrastructure.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/dineshyr29-04/Makers-Conclave" target="_blank">Makers-Conclave</a></h3>
-      <p><b>Python</b></p>
+      <p><b>Python · Open CV · Yolo v8 </b></p>
       <p>Intelligent traffic signal logic refinement system designed for smart city infrastructure simulation and optimization.</p>
     </td>
     <td width="50%" valign="top">
       <h3>✨ <a href="https://github.com/dineshyr29-04/Portfolio" target="_blank">Personal Portfolio</a></h3>
-      <p><b>TypeScript · Next.js · CSS</b></p>
+      <p><b>TypeScript · Next.js · CSS · Lucide React</b></p>
       <p>A clean, responsive grid-based portfolio showcasing engineering projects, digital creative work, and technical expertise.</p>
     </td>
   </tr>
@@ -131,25 +131,12 @@ ThinkNode = Product Thinking + Clean Engineering + AI Execution
 
 ---
 
-## `github_stats`
 
-## `github_stats`
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=dineshyr29-04&theme=darkhub&no-frame=true&margin-w=4&row=1" alt="Trophies" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=dineshyr29-04&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dineshyr29-04&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=dineshyr29-04&theme=highcontrast&hide_border=true&background=00000000" alt="GitHub Streak" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshyr29-04&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" />
 

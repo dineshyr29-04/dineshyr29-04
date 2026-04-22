@@ -52,14 +52,32 @@ I build real things — not demos. From MVPs to production-grade systems, I focu
 
 ## `featured_projects`
 
-### 🚀 [Openloop](https://github.com/dineshyr29-04/Openloop)
-**Yenbuild 1.0** - A powerful workflow automation tool built with **TypeScript**.
-
-### 🤖 [Jarvis](https://github.com/dineshyr29-04/Jarvis)
-Advanced AI Assistant leveraging **AI/ML** for personalized task management and automation.
-
-### 🌐 [Makers-Conclave](https://github.com/dineshyr29-04/Makers-Conclave)
-Collaborative platform for creators and developers to build and share projects.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/dineshyr29-04/Openloop">Openloop</a></h3>
+      <p><b>TypeScript · CSS</b></p>
+      <p>A web-based development tool (Yenbuild 1.0) focused on streamlining project workflows and assembly architectures.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 <a href="https://github.com/dineshyr29-04/Thinknode-customer">Thinknode Ecosystem</a></h3>
+      <p><b>React · Node.js · Express</b></p>
+      <p>A comprehensive business management suite. Includes Customer Portal, Admin Dashboard, and a secure Backend API infrastructure.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/dineshyr29-04/Makers-Conclave">Makers-Conclave</a></h3>
+      <p><b>Python</b></p>
+      <p>Intelligent traffic signal logic refinement system designed for smart city infrastructure simulation and optimization.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://github.com/dineshyr29-04/Portfolio">Personal Portfolio</a></h3>
+      <p><b>TypeScript · Next.js · CSS</b></p>
+      <p>A clean, responsive grid-based portfolio showcasing engineering projects, digital creative work, and technical expertise.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 

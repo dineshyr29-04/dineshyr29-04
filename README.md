@@ -51,13 +51,10 @@ I am a committed Full-Stack Engineer and AI Automation Architect focused on tran
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dineshyr29-04&theme=onedark&no-frame=true&margin-w=15&column=4" alt="GitHub Trophies" />
-</div>
+
 
 <br/>
 
----
 
 ---
 

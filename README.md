@@ -174,8 +174,3 @@ If you're building something meaningful and need a developer who can deliver bot
 
 [![Reach out →](https://img.shields.io/badge/Reach%20out-dineshyr2904%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dineshyr2904@gmail.com)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dineshyr29-04&label=profile+views&color=0e75b6&style=flat" alt="Profile views" />
-</div>

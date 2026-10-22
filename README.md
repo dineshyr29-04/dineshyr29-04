@@ -64,23 +64,6 @@ Build → Break → Understand → Measure → Improve
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dineshyr29-04&theme=github_dark" width="95%" alt="GitHub Profile Summary"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dineshyr29-04&theme=github_dark" height="170" alt="Repos Per Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dineshyr29-04&theme=github_dark" height="170" alt="Most Commit Language"/>
-
-</div>
 
 <br/>
 
@@ -93,14 +76,6 @@ Build → Break → Understand → Measure → Improve
 </div>
 
 ---
-
-## `> github --achievements`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dineshyr29-04&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
-
-</div>
 
 ---
 
